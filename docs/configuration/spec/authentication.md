@@ -46,8 +46,8 @@ config:
 
 For complete authentication documentation, see:
 
-- [Panel Authentication Guide](https://panel.holoviz.org/user_guide/Authentication.html)
-- [OAuth Setup Guide](https://panel.holoviz.org/user_guide/Authentication.html#oauth)
+- [Panel Authentication Guide](https://panel.holoviz.org/how_to/authentication/index.html)
+- [Configuring OAuth](https://panel.holoviz.org/how_to/authentication/configuration.html#configuring-oauth)
 
 ## Common patterns
 
